@@ -1,0 +1,87 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: black;
+	padding: 10px;
+}
+
+.grid-item {
+	background-color: rgba(255, 255, 255, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	padding: 20px;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+}
+.cell-1{
+	background: deepskyblue;
+}
+.cell-2{
+	background: orangered;
+}
+.cell-3{
+	background: royalblue;
+}
+.cell-4{
+	background: gold;
+}
+.cell-5{
+	background: blueviolet;
+}
+.cell-6{
+	background: limegreen;
+}
+.cell-7{
+	background: coral;
+}
+.cell-8{
+	background: lightseagreen;
+}
+.cell-9{
+	background: maroon;
+}
+.cell-10{
+	background: tomato;
+}
+.cell-11{
+	background: mintcream;
+}
+.cell-12{
+	background: darkmagenta;
+}
+.cell-13{
+	background: greenyellow;
+}
+.cell-14{
+	background: gray;
+}
+.cell-15{
+	background: grey;
+}
+.cell-16{
+	background: khaki;
+}
+.cell-17{
+	background: orange;
+}
+.cell-18{
+	background: burlywood;
+}
+.cell-19{
+	background: turquoise;
+}
+.cell-20{
+	background: darkgrey;
+}
+.cell-21{
+	background: floralwhite;
+}
+.cell-22{
+	background: lemonchiffon;
+}
+.cell-23{
+	background: salmon;
+}
+.cell-24{
+	background: aqua;
+}
